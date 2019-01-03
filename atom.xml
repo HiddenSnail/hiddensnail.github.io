@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hiddensnail.github.io/"/>
-  <updated>2019-01-03T14:42:49.346Z</updated>
+  <updated>2019-01-03T17:09:21.869Z</updated>
   <id>https://hiddensnail.github.io/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hiddensnail.github.io/2019/01/03/hello-world/"/>
-    <id>https://hiddensnail.github.io/2019/01/03/hello-world/</id>
+    <link href="https://hiddensnail.github.io/2019/01/03/index/"/>
+    <id>https://hiddensnail.github.io/2019/01/03/index/</id>
     <published>2019-01-03T13:05:15.501Z</published>
-    <updated>2019-01-03T14:42:49.346Z</updated>
+    <updated>2019-01-03T17:09:21.869Z</updated>
     
-    <content type="html"><![CDATA[<!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a> –&gt;</p>-->]]></content>
+    <content type="html"><![CDATA[<h1 id="This"><a href="#This" class="headerlink" title="This"></a>This</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">var sdk = oop;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you g
+        &lt;h1 id=&quot;This&quot;&gt;&lt;a href=&quot;#This&quot; class=&quot;headerlink&quot; title=&quot;This&quot;&gt;&lt;/a&gt;This&lt;/h1&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pr
       
     
     </summary>
